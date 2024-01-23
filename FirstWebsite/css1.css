@@ -11,7 +11,7 @@ body{
 }
 button{
     background-color: lightgreen;
-    border-radius: 5px;
+    border-radius: 6px;
     border-style: hidden;
     padding: 8px;
 }
