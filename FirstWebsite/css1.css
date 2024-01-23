@@ -1,0 +1,34 @@
+.heading{
+    background-color: lightgreen;
+    color: white;
+    padding: 40px;
+}
+h1{
+    height: 5px;
+}
+body{
+    background-color: aliceblue;
+}
+button{
+    background-color: lightgreen;
+    border-radius: 5px;
+    border-style: hidden;
+    padding: 10px;
+}
+h5{
+    line-height: 2px;
+}
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+input{
+    width: 500px;
+}
+textarea{
+    height: 100px;
+}
+#darkmode{
+    color: white;
+    
+}
